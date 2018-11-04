@@ -1,0 +1,1 @@
+int drawable xamarin_fingerprint 0x7f020000

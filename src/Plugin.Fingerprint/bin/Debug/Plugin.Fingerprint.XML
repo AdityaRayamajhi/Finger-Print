@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.Fingerprint</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.Fingerprint.CrossFingerprint">
+            <summary>
+            Cross Platform Fingerprint.
+            </summary>
+        </member>
+        <member name="P:Plugin.Fingerprint.CrossFingerprint.Current">
+            <summary>
+            Current plugin implementation to use
+            </summary>
+        </member>
+        <member name="M:Plugin.Fingerprint.CrossFingerprint.Dispose">
+            <summary>
+            Cleans up implementation reference.
+            </summary>
+        </member>
+    </members>
+</doc>

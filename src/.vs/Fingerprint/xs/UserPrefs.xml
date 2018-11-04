@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7096490F-E271-412B-8376-D58C226AB9FE}|Default" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src Status">
+    <Files>
+      <File FileName="src Status" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fingerprint" expanded="True">
+            <Node name=".doc" expanded="True" />
+            <Node name="Plugin.Fingerprint" expanded="True">
+              <Node name="CrossFingerprint.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Samples.SMS.Fingerprint.Sample.Droid PreferredExecutionTarget="Android.pixelxl" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Plugin.Fingerprint.Android AndroidDesignerPreferredDevice="pixel" />
+</Properties>

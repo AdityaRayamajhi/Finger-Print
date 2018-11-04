@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments />
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj/Debug/lp/1/jl/__reference__pass-v1.2.0.jar</Jar>
+    <Jar>obj/Debug/lp/1/jl/__reference__sdk-v1.0.0.jar</Jar>
+  </Jars>
+</Paths>

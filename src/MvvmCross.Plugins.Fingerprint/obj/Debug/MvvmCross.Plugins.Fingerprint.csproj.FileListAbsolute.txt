@@ -1,0 +1,9 @@
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/MvvmCross.Plugins.Fingerprint/bin/Debug/MvvmCross.Plugins.Fingerprint.dll
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/MvvmCross.Plugins.Fingerprint/bin/Debug/MvvmCross.Plugins.Fingerprint.pdb
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/MvvmCross.Plugins.Fingerprint/bin/Debug/MvvmCross.Platform.dll
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/MvvmCross.Plugins.Fingerprint/bin/Debug/MvvmCross.Platform.dll.mdb
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/MvvmCross.Plugins.Fingerprint/obj/Debug/MvvmCross.Plugins.Fingerprint.csprojAssemblyReference.cache
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/MvvmCross.Plugins.Fingerprint/obj/Debug/MvvmCross.Plugins.Fingerprint.csproj.CoreCompileInputs.cache
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/MvvmCross.Plugins.Fingerprint/obj/Debug/MvvmCross.Plugins.Fingerprint.csproj.CopyComplete
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/MvvmCross.Plugins.Fingerprint/obj/Debug/MvvmCross.Plugins.Fingerprint.dll
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/MvvmCross.Plugins.Fingerprint/obj/Debug/MvvmCross.Plugins.Fingerprint.pdb

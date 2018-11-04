@@ -1,0 +1,11 @@
+layout/FingerprintDialog.axml;layout/fingerprintdialog.xml
+drawable/fingerprint_normal.axml;drawable/fingerprint_normal.xml
+drawable/fingerprint_denied.axml;drawable/fingerprint_denied.xml
+drawable-xxhdpi/fingerprint_red.png;drawable-xxhdpi/fingerprint_red.png
+drawable/fingerprint_accepted.axml;drawable/fingerprint_accepted.xml
+drawable-xxhdpi/ic_fingerprint.png;drawable-xxhdpi/ic_fingerprint.png
+drawable-hdpi/fingerprint_white.png;drawable-hdpi/fingerprint_white.png
+drawable-mdpi/fingerprint_white.png;drawable-mdpi/fingerprint_white.png
+drawable-xhdpi/fingerprint_white.png;drawable-xhdpi/fingerprint_white.png
+drawable-xxhdpi/fingerprint_white.png;drawable-xxhdpi/fingerprint_white.png
+drawable-xxxhdpi/fingerprint_white.png;drawable-xxxhdpi/fingerprint_white.png

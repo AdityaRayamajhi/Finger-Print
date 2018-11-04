@@ -1,0 +1,7 @@
+MvvmCross.Platform
+MvvmCross.Platform.Droid
+MvvmCross.Plugins.Fingerprint
+Plugin.Fingerprint.Abstractions
+Plugin.Fingerprint
+System.Runtime
+Plugin.Fingerprint.Android.Samsung

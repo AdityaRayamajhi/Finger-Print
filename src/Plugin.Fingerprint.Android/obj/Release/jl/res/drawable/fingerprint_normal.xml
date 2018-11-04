@@ -1,0 +1,12 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"><item><shape android:shape="oval"><solid android:color="#607D8B" /><size android:height="64dp" android:width="64dp" /></shape></item><item android:left="28dp" android:right="28dp" android:top="28dp" android:bottom="28dp"><shape android:shape="oval"><padding android:bottom="1dp" android:right="1dp" /><solid android:color="#1AC0C0C0" /></shape></item><item android:left="28dp" android:right="28dp" android:top="28dp" android:bottom="28dp"><shape android:shape="oval"><padding android:bottom="2dp" android:right="2dp" /><solid android:color="#0DC0C0C0" /></shape></item><!--<item android:left="18dp" android:right="18dp" android:top="18dp" android:bottom="18dp">
+         <shape android:shape="oval">
+            <padding android:bottom="-3dp" android:right="-3dp" />
+            <solid android:color="#E6000000" />
+        </shape>
+    </item>
+    <item android:left="18dp" android:right="18dp" android:top="18dp" android:bottom="18dp">
+         <shape android:shape="oval">
+            <padding android:bottom="-4dp" android:right="-4dp" />
+            <solid android:color="#F2000000" />
+        </shape>
+    </item>--><item android:left="21dp" android:right="21dp" android:top="21dp" android:bottom="21dp"><bitmap android:src="@drawable/fingerprint_white" android:gravity="center" android:scaleType="fitCenter" /></item></layer-list>

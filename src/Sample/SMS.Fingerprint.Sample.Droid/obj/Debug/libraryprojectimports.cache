@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>/Users/adityarayamajhi/Documents/MyProjects/PluginFingerPrint/Finger-Print.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/0/jl/formsviewgroup.jar</Jar>
+    <Jar>/Users/adityarayamajhi/Documents/MyProjects/PluginFingerPrint/Finger-Print.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/18/jl/__reference__pass-v1.2.0.jar</Jar>
+    <Jar>/Users/adityarayamajhi/Documents/MyProjects/PluginFingerPrint/Finger-Print.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/18/jl/__reference__sdk-v1.0.0.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/adityarayamajhi/Documents/MyProjects/PluginFingerPrint/Finger-Print.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/1/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/adityarayamajhi/Documents/MyProjects/PluginFingerPrint/Finger-Print.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/15/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/adityarayamajhi/Documents/MyProjects/PluginFingerPrint/Finger-Print.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/16/jl/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/lp/1/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/lp/15/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/lp/16/jl/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/adityarayamajhi/Documents/MyProjects/PluginFingerPrint/Finger-Print.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/1.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/adityarayamajhi/Documents/MyProjects/PluginFingerPrint/Finger-Print.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/15.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/adityarayamajhi/Documents/MyProjects/PluginFingerPrint/Finger-Print.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/16.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

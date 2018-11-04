@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/0/jl/formsviewgroup.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/1/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/12/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/13/jl/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/lp/1/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/lp/12/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/lp/13/jl/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/1.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/12.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample.Droid/obj/Debug/lp/13.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

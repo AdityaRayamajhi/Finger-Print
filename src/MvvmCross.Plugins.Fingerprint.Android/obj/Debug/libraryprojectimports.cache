@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/MvvmCross.Plugins.Fingerprint.Android/obj/Debug/lp/6/jl/__reference__pass-v1.2.0.jar</Jar>
+    <Jar>/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/MvvmCross.Plugins.Fingerprint.Android/obj/Debug/lp/6/jl/__reference__sdk-v1.0.0.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/MvvmCross.Plugins.Fingerprint.Android/obj/Debug/lp/1/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/MvvmCross.Plugins.Fingerprint.Android/obj/Debug/lp/4/jl/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/lp/1/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/lp/4/jl/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/MvvmCross.Plugins.Fingerprint.Android/obj/Debug/lp/1.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/MvvmCross.Plugins.Fingerprint.Android/obj/Debug/lp/4.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

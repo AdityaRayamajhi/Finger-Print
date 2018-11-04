@@ -1,0 +1,14 @@
+<metadata>
+  <add-node path="/api"><enum name="Com.Samsung.Android.Sdk.Pass.SpassFingerprintStatus" /></add-node>
+  <attr path="/api/package[@name='com.samsung.android.sdk.pass']/*[@name='SpassFingerprint.IdentifyListener']/method[@name='onFinished']/parameter[@name='p0']" name="enumType">Com.Samsung.Android.Sdk.Pass.SpassFingerprintStatus</attr>
+  <remove-node path="/api/package[@name='com.samsung.android.sdk.pass']/class[@name='SpassFingerprint']/field[@name='STATUS_AUTHENTIFICATION_SUCCESS']" />
+  <remove-node path="/api/package[@name='com.samsung.android.sdk.pass']/class[@name='SpassFingerprint']/field[@name='STATUS_TIMEOUT_FAILED']" />
+  <remove-node path="/api/package[@name='com.samsung.android.sdk.pass']/class[@name='SpassFingerprint']/field[@name='STATUS_SENSOR_FAILED']" />
+  <remove-node path="/api/package[@name='com.samsung.android.sdk.pass']/class[@name='SpassFingerprint']/field[@name='STATUS_USER_CANCELLED']" />
+  <remove-node path="/api/package[@name='com.samsung.android.sdk.pass']/class[@name='SpassFingerprint']/field[@name='STATUS_BUTTON_PRESSED']" />
+  <remove-node path="/api/package[@name='com.samsung.android.sdk.pass']/class[@name='SpassFingerprint']/field[@name='STATUS_QUALITY_FAILED']" />
+  <remove-node path="/api/package[@name='com.samsung.android.sdk.pass']/class[@name='SpassFingerprint']/field[@name='STATUS_USER_CANCELLED_BY_TOUCH_OUTSIDE']" />
+  <remove-node path="/api/package[@name='com.samsung.android.sdk.pass']/class[@name='SpassFingerprint']/field[@name='STATUS_AUTHENTIFICATION_FAILED']" />
+  <remove-node path="/api/package[@name='com.samsung.android.sdk.pass']/class[@name='SpassFingerprint']/field[@name='STATUS_OPERATION_DENIED']" />
+  <remove-node path="/api/package[@name='com.samsung.android.sdk.pass']/class[@name='SpassFingerprint']/field[@name='STATUS_AUTHENTIFICATION_PASSWORD_SUCCESS']" />
+</metadata>

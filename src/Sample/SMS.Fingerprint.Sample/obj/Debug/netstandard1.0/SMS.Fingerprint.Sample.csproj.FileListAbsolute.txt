@@ -1,0 +1,16 @@
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/bin/Debug/netstandard1.0/SMS.Fingerprint.Sample.deps.json
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/bin/Debug/netstandard1.0/SMS.Fingerprint.Sample.dll
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/bin/Debug/netstandard1.0/SMS.Fingerprint.Sample.pdb
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/bin/Debug/netstandard1.0/Plugin.Fingerprint.Abstractions.dll
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/bin/Debug/netstandard1.0/Plugin.Fingerprint.dll
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/bin/Debug/netstandard1.0/Plugin.Fingerprint.Abstractions.pdb
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/bin/Debug/netstandard1.0/Plugin.Fingerprint.xml
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.csprojAssemblyReference.cache
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.csproj.CoreCompileInputs.cache
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.MainView.xaml.g.cs
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.SecretView.xaml.g.cs
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.AssemblyInfoInputs.cache
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.AssemblyInfo.cs
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.csproj.CopyComplete
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.dll
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.pdb

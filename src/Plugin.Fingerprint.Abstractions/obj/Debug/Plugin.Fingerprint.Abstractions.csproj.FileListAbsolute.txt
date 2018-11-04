@@ -1,0 +1,5 @@
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.Abstractions/bin/Debug/Plugin.Fingerprint.Abstractions.dll
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.Abstractions/bin/Debug/Plugin.Fingerprint.Abstractions.pdb
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.Abstractions/obj/Debug/Plugin.Fingerprint.Abstractions.csproj.CoreCompileInputs.cache
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.Abstractions/obj/Debug/Plugin.Fingerprint.Abstractions.dll
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.Abstractions/obj/Debug/Plugin.Fingerprint.Abstractions.pdb

@@ -1,0 +1,10 @@
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.iOS/bin/iPhone/Debug/Plugin.Fingerprint.dll
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.iOS/bin/iPhone/Debug/Plugin.Fingerprint.pdb
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.iOS/bin/iPhone/Debug/Plugin.Fingerprint.Abstractions.dll
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.iOS/bin/iPhone/Debug/Plugin.Fingerprint.Abstractions.pdb
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.iOS/obj/Debug/optimized/
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.iOS/obj/Debug/Plugin.Fingerprint.iOS.csprojAssemblyReference.cache
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.iOS/obj/Debug/Plugin.Fingerprint.iOS.csproj.CoreCompileInputs.cache
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.iOS/obj/Debug/Plugin.Fingerprint.iOS.csproj.CopyComplete
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.iOS/obj/Debug/Plugin.Fingerprint.dll
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.iOS/obj/Debug/Plugin.Fingerprint.pdb

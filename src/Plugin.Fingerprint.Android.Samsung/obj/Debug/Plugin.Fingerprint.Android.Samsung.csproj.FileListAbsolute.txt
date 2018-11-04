@@ -1,0 +1,6 @@
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.Android.Samsung/bin/Debug/Plugin.Fingerprint.Android.Samsung.dll
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.Android.Samsung/bin/Debug/Plugin.Fingerprint.Android.Samsung.pdb
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.Android.Samsung/obj/Debug/Plugin.Fingerprint.Android.Samsung.csprojAssemblyReference.cache
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.Android.Samsung/obj/Debug/Plugin.Fingerprint.Android.Samsung.csproj.CoreCompileInputs.cache
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.Android.Samsung/obj/Debug/Plugin.Fingerprint.Android.Samsung.dll
+/Users/adityarayamajhi/Documents/OfficeProjects/smstuebe/xamarin-fingerprint.git/src/Plugin.Fingerprint.Android.Samsung/obj/Debug/Plugin.Fingerprint.Android.Samsung.pdb
